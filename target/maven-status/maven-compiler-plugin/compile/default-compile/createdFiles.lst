@@ -1,0 +1,6 @@
+testProjectAliParser\parser\Parser.class
+testProjectAliParser\writer\CsvResultsWriter.class
+testProjectAliParser\parser\ali\AliParser.class
+testProjectAliParser\Scraper.class
+testProjectAliParser\Main.class
+testProjectAliParser\writer\ResultsWriter.class
